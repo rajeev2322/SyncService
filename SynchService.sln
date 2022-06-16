@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchService", "SynchService\SynchService.csproj", "{09B572E1-6147-40B1-B928-E6E8840C15D7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SynchSetup", "SynchSetup\SynchSetup.vdproj", "{E9BA18C3-C936-461B-BD74-D730EF4F5E46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09B572E1-6147-40B1-B928-E6E8840C15D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B572E1-6147-40B1-B928-E6E8840C15D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B572E1-6147-40B1-B928-E6E8840C15D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B572E1-6147-40B1-B928-E6E8840C15D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9BA18C3-C936-461B-BD74-D730EF4F5E46}.Debug|Any CPU.ActiveCfg = Debug
+		{E9BA18C3-C936-461B-BD74-D730EF4F5E46}.Debug|Any CPU.Build.0 = Debug
+		{E9BA18C3-C936-461B-BD74-D730EF4F5E46}.Release|Any CPU.ActiveCfg = Release
+		{E9BA18C3-C936-461B-BD74-D730EF4F5E46}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CDEA6EC-069B-4E47-9E8E-CD99BFF224AC}
+	EndGlobalSection
+EndGlobal
